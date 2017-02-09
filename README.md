@@ -36,6 +36,11 @@ rsformat init <walks you through the configuration steps for the project>
 ### How does it looks ?
 
 Below are some of the images on how the final report may look like. 
+![Sample 1](sample1.jpg)
+
+---------------------------------------------------------------------------------------------------------------
+
+![Sample 2](sample2.jpg)
 
 
 ### Authors
