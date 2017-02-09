@@ -28,9 +28,14 @@ Help and other Options
 
 ```
 rsformat has some inbuild options which you can use to configure and personalise the report. 
+
+
 rsformat --help <for all the information you need on this gem>
+
 rsformat init-help <for all the configuration you can do while initializing your project with rsformat>
+
 rsformat init <walks you through the configuration steps for the project>
+
 ```
 
 ### How does it looks ?
